@@ -1,0 +1,43 @@
+
+.Profile_Image {
+    width: 100px;
+    height: 100px;
+    background-color: #3f3f3f;
+    border-radius: 100%;
+    background-image: url('Nazril.jpeg');
+    background-size: cover;
+    margin: 100px auto;
+}
+
+/*--------------------------------------------------------------------------------------------------------------*/
+
+.box {
+    background-color: #3f3f3f;
+    width: 200px;
+    height: 120px;
+}
+
+.Container1 {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    gap: 15px;
+}
+
+.Container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    gap: 15px;
+    margin: 110px auto;
+}
+
+.second {
+    justify-content: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
